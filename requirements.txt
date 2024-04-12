@@ -3,5 +3,5 @@ matplotlib
 seaborn
 streamlit
 numpy
-sci-kit learn
+scikit-learn
 xgboost
